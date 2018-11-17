@@ -1,0 +1,30 @@
+body {
+  background-color: #2f3032;
+}
+
+.reveal .slides {
+  color: white;
+  text-align: left;
+}
+
+.reveal .slides h1 {
+  color: #75efee;
+}
+
+.reveal .slides h2 {
+  color: #75efee;
+}
+
+.reveal .slides section>* {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.reveal .slides .fragment {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: left;
+  color: white;
+  font-size: 1em;
+  background-color: rgba(37,37,37,0.86);
+}

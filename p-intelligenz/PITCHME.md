@@ -1,14 +1,10 @@
----?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg&position=left&size=50% 100%
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer-hk.jpg&position=left&size=50% 100%
 @snap[east span-50]
-
 @snap[east text-grey span-45] @olsplit-screen-list
-#### Intelligenz - Wann wird der Urknall gewesen sein
-
-Intelligenz?
-Eine der vielen Definitionen von Intellizenz ist die von Sternberg & Salter. Sie sagen, Intelligenz ist
-"Zielorientiertes adaptives Verhalten"
-
-[Wikipedia: Sternberg & Salter - Goal-directed adaptive behavior](https://en.wikipedia.org/wiki/Intelligence)
+#### Intelligenz - Wann wird der Urknall gewesen sein?
+Eine der vielen Definitionen von Intellizenz ist die von Sternberg & Salter.
+Intelligenz ist "Zielorientiertes adaptives Verhalten"
+[Wikipedia](https://en.wikipedia.org/wiki/Intelligence)
 @olend
 @snapend
 
