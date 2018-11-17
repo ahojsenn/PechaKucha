@@ -4,10 +4,8 @@
 painful matter
 <!-- .element: style="font-size: 2em; color: orange"-->
 
-+++?image=images/profilbild.jpg&size=auto 90%
-+++?image=images/johannes-mainusch.jpg&size=auto 90%
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/johannes-mainusch.jpg&size=auto 90%
 
 
-+++?image=images/wer.jpg
 
-
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/kommitment.png
