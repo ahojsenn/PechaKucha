@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-WD=basename $PWD
+WD=`basename $PWD`
 
 echo $1
 
@@ -28,4 +28,6 @@ git pull --rebase
 git push
 # open https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github&p=p-seacon2018
 # open https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-seacon2018
-open https://gitpitch.com/ahojsenn/$WD/master
+URL=https://gitpitch.com/ahojsenn/$WD/master
+echo going to open $URL
+open $URL
