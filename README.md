@@ -2,7 +2,7 @@
 Johannes Mainusch
 
 # to view some of my presentations
-- [PechaKucha](https://gitpitch.com/ahojsenn/Pechakucha/master)
+- [PechaKucha](https://gitpitch.com/ahojsenn/Pechakucha/master?p=_Intelligenz
 - [BGL-Kongress 2018](https://gitpitch.com/ahojsenn/presentation-DevOps/master?p=p-p-BGL-Kongress)
 - [sea-con2018:](https://www.sea-con.de/seacon2018.html?gclid=EAIaIQobChMI5OvP6-jT2gIVYTPTCh0I_gzIEAAYASAAEgKTdfD_BwE)
 - [DEVOPS:](https://gitpitch.com/ahojsenn/presentation-DevOps/master?grs=github)
