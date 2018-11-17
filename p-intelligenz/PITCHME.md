@@ -1,5 +1,5 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg&position=left&size=50% 100%
-@title[Get Ready]
+@snap[east span-50]
 # Intelligenz - Wann wird der Urknall gewesen sein
 
 
