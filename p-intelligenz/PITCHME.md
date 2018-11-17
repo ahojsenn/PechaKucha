@@ -1,5 +1,12 @@
 ---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg&position=left&size=50% 100%
 @snap[east span-50]
+@snap[east text-grey span-45] @olsplit-screen-list
+
+Lorem ipsum dolor sit amet, consectetur elit
+Ut enim ad minim veniam, quis exercitation
+Duis aute irure dolor in reprehenderit in voluptate @olend @snapend
+
+@snap[east text-grey  span-45] @olsplit-screen-list
 # Intelligenz - Wann wird der Urknall gewesen sein
 
 
