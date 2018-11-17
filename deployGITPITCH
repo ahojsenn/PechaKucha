@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-WD = basename $PWD
+WD=basename $PWD
 
 echo $1
 
