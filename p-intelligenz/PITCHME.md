@@ -1,4 +1,4 @@
----?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
+---?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/oberkiffer.jpg
 # Pecha Kucha
 <!-- .element: style="font-size: 3em; color: orange"-->
 Intelligenz?
