@@ -19,7 +19,7 @@ Deep Blue schlägt im Mai 1997 den damaligen Schachweltmeister Garri Kasparow
 
 
 März 2016 schlug AlphaGo den Südkoreaner Lee Sedol
-
+@snapend
 
 +++
 # MAschinen finden innovative neue Spielweisen alter Spiele und besiegen den Menschen im Go-Spiel
