@@ -1,30 +1,12 @@
----?color=linear-gradient(to right, #c02425, #f0cb35) @title[Introduction]
-
-@snap[west text-25 text-bold text-white] GitPitch
-The Template @snapend
-
-@snap[south-west byline text-white text-06] The Fastest Way From Idea To Presentation. @snapend
-
-@title[Slide Markdown]
-
-Each slide in this presentation is provided as a template.
-
-
-
-
-@snap[south span-100 text-purple text-05] Reuse the markdown snippet for any slide in this template within your own @csstext-gold text-bold files. @snapend
-
-@title[Tip! Fullscreen]
-
-
-
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # Intelligenz?
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/b/ba/Caribicbauch02.jpg
+@snap[east span-60]
 Wie fängt das alles an?
 Ausgehend von eigenen Bauchnabel nehmen wir die Welt wahr. Zunächst ist der Bauchnabel die Zentrale. Hier erfolgt die Versorgung mit Sauerstoff und Nährstoffen. Damit das alles funktioniert, haben wir uns wie ein Blutegel an unsere Wirtsperson angedockt. Und dieser Wirt stößt uns nicht ab, sondern versorgt und schützt uns neun Monate lang absolut.
 https://www.youtube.com/watch?v=0gAsdEUNUJY
+@snapend
 
 +++
 Dann erfahren wir die größte Veränderung unserer Umwelt überhaupt. Es wird eng und dann kalt, wir müssen atmen, bekommen Hunger und dann Bauchweh. Ohne dass wir es wissen, gehen wir die größte Symbiose in unserem Leben ein und erlauben neun mal mehr Bakterien und Mikroorganismen in uns zu  wohnen, als wir selbst Zellen haben. Unser Darm entwickelt sich schneller als unser Hirn. Und das ist gut so, sonst wäre unser Leben schon zuende.
