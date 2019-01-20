@@ -1,8 +1,8 @@
 
----
-Intelligenz beginnt im Bauchnabel
++++?https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
+# Intelligenz
 
----
+---?https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi77uGx3fzfAhXO66QKHdSXBUAQjRx6BAgBEAU&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FBauchnabel&psig=AOvVaw2VuaStN-0EX0u_heAexeAe&ust=1548086370263856
 Wie fängt das alles an?
 Ausgehend von eigenen Bauchnabel nehmen wir die Welt wahr. Zunächst ist der Bauchnabel die Zentrale. Hier erfolgt die Versorgung mit Sauerstoff und Nährstoffen. Damit das alles funktioniert, haben wir uns wie ein Blutegel an unsere Wirtsperson angedockt. Und dieser Wirt stößt uns nicht ab, sondern versorgt und schützt uns neun Monate lang absolut.
 https://www.youtube.com/watch?v=0gAsdEUNUJY
@@ -53,7 +53,6 @@ https://www.wienerzeitung.at/nachrichten/archiv/75512_Angst-ist-der-Schwindel-de
 
 +++
 Intelligent wäre es, sich der Angst zu stellen. Den Blick vom eigenen Bauchnabel zu erheben und sich aus seinem eigenen Mittelpunkt zu begeben. Weitere Randerfahrungen zu machen. Mut zu haben, an die Grenze der eigenen Fähigkeiten und des eigenen Verständnisses zu schauen. Den Horizont zu hinterfragen...
-+++
 https://www.youtube.com/watch?v=H6zEvZKBg4Y
 
 +++
