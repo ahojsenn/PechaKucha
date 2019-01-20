@@ -2,7 +2,7 @@
 # Intelligenz?
 
 ---?image=
-@snap[north-east span-60]
+@snap[north-east span-100]
 ![BAUCHNABEL](https://upload.wikimedia.org/wikipedia/commons/b/ba/Caribicbauch02.jpg)
 @snapend
 
