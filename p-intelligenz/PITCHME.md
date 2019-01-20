@@ -1,5 +1,25 @@
+---?color=linear-gradient(to right, #c02425, #f0cb35) @title[Introduction]
+
+@snap[west text-25 text-bold text-white] GitPitch
+The Template @snapend
+
+@snap[south-west byline text-white text-06] The Fastest Way From Idea To Presentation. @snapend
+
+@title[Slide Markdown]
+
+Each slide in this presentation is provided as a template.
+
+
+
+
+@snap[south span-100 text-purple text-05] Reuse the markdown snippet for any slide in this template within your own @csstext-gold text-bold files. @snapend
+
+@title[Tip! Fullscreen]
+
+
+
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
-# Intelligenz
+# Intelligenz?
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/b/ba/Caribicbauch02.jpg
 Wie fängt das alles an?
