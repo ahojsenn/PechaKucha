@@ -1,9 +1,12 @@
 +++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # Intelligenz?
 
----?image=https://upload.wikimedia.org/wikipedia/commons/b/ba/Caribicbauch02.jpg
-@snap[east span-60]
-Wie fängt das alles an?
+---?image=
+@snap[north-east span-60]
+![BAUCHNABEL](https://upload.wikimedia.org/wikipedia/commons/b/ba/Caribicbauch02.jpg)
+@snapend
+
+@snap[north-west span-40]
 Ausgehend von eigenen Bauchnabel nehmen wir die Welt wahr. Zunächst ist der Bauchnabel die Zentrale. Hier erfolgt die Versorgung mit Sauerstoff und Nährstoffen. Damit das alles funktioniert, haben wir uns wie ein Blutegel an unsere Wirtsperson angedockt. Und dieser Wirt stößt uns nicht ab, sondern versorgt und schützt uns neun Monate lang absolut.
 https://www.youtube.com/watch?v=0gAsdEUNUJY
 @snapend
