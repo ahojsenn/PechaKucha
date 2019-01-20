@@ -1,7 +1,7 @@
-+++image=?https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
++++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
 # Intelligenz
 
----image=?https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi77uGx3fzfAhXO66QKHdSXBUAQjRx6BAgBEAU&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FBauchnabel&psig=AOvVaw2VuaStN-0EX0u_heAexeAe&ust=1548086370263856
+---?image=https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi77uGx3fzfAhXO66QKHdSXBUAQjRx6BAgBEAU&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FBauchnabel&psig=AOvVaw2VuaStN-0EX0u_heAexeAe&ust=1548086370263856
 Wie fängt das alles an?
 Ausgehend von eigenen Bauchnabel nehmen wir die Welt wahr. Zunächst ist der Bauchnabel die Zentrale. Hier erfolgt die Versorgung mit Sauerstoff und Nährstoffen. Damit das alles funktioniert, haben wir uns wie ein Blutegel an unsere Wirtsperson angedockt. Und dieser Wirt stößt uns nicht ab, sondern versorgt und schützt uns neun Monate lang absolut.
 https://www.youtube.com/watch?v=0gAsdEUNUJY
