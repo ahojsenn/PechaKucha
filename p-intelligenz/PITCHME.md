@@ -1,7 +1,7 @@
 +++?image=https://upload.wikimedia.org/wikipedia/commons/b/ba/Caribicbauch02.jpg
 # Intelligenz?
 
----?image=https://cdn.pixabay.com/photo/2016/11/01/12/24/fetus-1788082_1280.jpg
+---?image=https://pixabay.com/photo-1788082/
 @snap[north-west span-40 text-05]
 @quote[Ausgehend vom eigenen Bauchnabel nehmen wir die Welt wahr. Zunächst ist der Bauchnabel die Zentrale. Hier erfolgt die Versorgung mit Sauerstoff und Nährstoffen. Damit das alles funktioniert, haben wir uns wie ein Blutegel an unsere Wirtsperson angedockt. Und dieser Wirt stößt uns nicht ab, sondern versorgt und schützt uns neun Monate lang absolut. https://www.youtube.com/watch?v=0gAsdEUNUJY]
 @snapend
