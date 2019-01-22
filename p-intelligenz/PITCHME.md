@@ -1,16 +1,16 @@
-+++?image=https://raw.githubusercontent.com/ahojsenn/assets/master/img/_mandelbrot01.png
++++?image=https://upload.wikimedia.org/wikipedia/commons/b/ba/Caribicbauch02.jpg
 # Intelligenz?
 
----?image=https://upload.wikimedia.org/wikipedia/commons/b/ba/Caribicbauch02.jpg
-@quote[Beware of geeks bearing formulas.]
-@quote[It's what I do that defines me.](Bruce Wayne)
+---?image=https://cdn.pixabay.com/photo/2016/11/01/12/24/fetus-1788082_1280.jpg
 @snap[north-west span-40 text-05]
-@quote[Ausgehend von eigenen Bauchnabel nehmen wir die Welt wahr. Zunächst ist der Bauchnabel die Zentrale. Hier erfolgt die Versorgung mit Sauerstoff und Nährstoffen. Damit das alles funktioniert, haben wir uns wie ein Blutegel an unsere Wirtsperson angedockt. Und dieser Wirt stößt uns nicht ab, sondern versorgt und schützt uns neun Monate lang absolut. https://www.youtube.com/watch?v=0gAsdEUNUJY]
+@quote[Ausgehend vom eigenen Bauchnabel nehmen wir die Welt wahr. Zunächst ist der Bauchnabel die Zentrale. Hier erfolgt die Versorgung mit Sauerstoff und Nährstoffen. Damit das alles funktioniert, haben wir uns wie ein Blutegel an unsere Wirtsperson angedockt. Und dieser Wirt stößt uns nicht ab, sondern versorgt und schützt uns neun Monate lang absolut. https://www.youtube.com/watch?v=0gAsdEUNUJY]
 @snapend
 
-+++
-Dann erfahren wir die größte Veränderung unserer Umwelt überhaupt. Es wird eng und dann kalt, wir müssen atmen, bekommen Hunger und dann Bauchweh. Ohne dass wir es wissen, gehen wir die größte Symbiose in unserem Leben ein und erlauben neun mal mehr Bakterien und Mikroorganismen in uns zu  wohnen, als wir selbst Zellen haben. Unser Darm entwickelt sich schneller als unser Hirn. Und das ist gut so, sonst wäre unser Leben schon zuende.
-https://www.darm-mit-charme.de
++++?image=https://cdn.pixabay.com/photo/2015/10/16/08/43/newborn-baby-990691_1280.jpg
+@snap[north-west span-40 text-05]
+@quote[Dann erfahren wir die größte Veränderung unserer Umwelt überhaupt. Es wird eng und dann kalt, wir müssen atmen, bekommen Hunger und dann Bauchweh. Ohne dass wir es wissen, gehen wir die größte Symbiose in unserem Leben ein und erlauben neun Mal mehr Bakterien und Mikroorganismen in uns zu  wohnen, als wir selbst Zellen haben. Unser Darm entwickelt sich schneller als unser Hirn. Und das ist gut so, sonst wäre unser Leben schon zu ende.
+https://www.darm-mit-charme.de]
+@snapend
 
 +++
 Wir sehen, hören, riechen, fühlen ein Chaos an Dingen um uns herum und müssen dauernd schlafen. Und auch das ist gut, denn im Schlaf verdauen wir all die Eindrücke, sortieren sie, bilden Kategorien und lernen. Bestimmte Dinge wiederholen sich und tauchen immer wieder auf. So lernen wir Sprechen und Schwerkraft und Laufen. Wir lernen soziales Verhalten und Eigenständigkeit.
